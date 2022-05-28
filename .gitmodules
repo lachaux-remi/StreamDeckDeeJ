@@ -1,0 +1,6 @@
+[submodule "StreamDeckDeeJ-Arduino"]
+	path = StreamDeckDeeJ-Arduino
+	url = https://github.com/lachaux-remi/StreamDeckDeeJ-Arduino
+[submodule "StreamDeckDeeJ-App"]
+	path = StreamDeckDeeJ-App
+	url = https://github.com/lachaux-remi/StreamDeckDeeJ-App
