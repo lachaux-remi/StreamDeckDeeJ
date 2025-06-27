@@ -4,3 +4,6 @@
 [submodule "StreamDeckDeeJ-App"]
 	path = StreamDeckDeeJ-App
 	url = https://github.com/lachaux-remi/StreamDeckDeeJ-App
+[submodule "StreamDeckDeeJ-SignalRGB"]
+	path = StreamDeckDeeJ-SignalRGB
+	url = https://github.com/lachaux-remi/StreamDeckDeeJ-SignalRGB
